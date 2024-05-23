@@ -39,6 +39,6 @@ Nessa página, temos sua imagem e um texto informando sobre o artista.
 <img src="images/perfil.jpg" alt="Tela de artista.">
 
 Voltando novamente para a página principal, vamos acessar a página de álbum.
-Por conta de estar em fase de aprendizado e tempo, essa página contém apenas sua imagem, o nome do álbum e o nome do artista.
+Por conta de tempo, essa página contém apenas sua imagem, o nome do álbum e o nome do artista. Pois para cada álbum, seria necessário adicionar cada uma de suas músicas no aplicativo, todas elas separadas por instrumentos. Nesse projeto, foi possível fazer esse processo apenas para 4 dessas músicas. E para cada album, seria necessário no mínimo 5 músicas para cada um.
 
 <img src="images/album.jpg" alt="Tela de álbum.">
