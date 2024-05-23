@@ -18,4 +18,4 @@ Biblioteca de Músicas: Disponibilizar uma biblioteca de músicas de diferentes 
 Ao iniciar o aplicativo, temos a tela inicial do aplicativo que nos dá a opção de cadastro ou de login.
 Neste projeto, precisamos sempre cadastrar um usuário para poder ter acesso total ao aplicativo.
 
-<img src="images/inicio" alt="Tela inicial.">
+<img src="images/inicio.jpg" alt="Tela inicial.">
