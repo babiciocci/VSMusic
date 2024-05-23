@@ -24,7 +24,7 @@ Então vamos para a página de cadastro. A página de login é exatamente igual.
 
 <img src="images/cadastro.jpg" alt="Tela de cadastro.">
 
-Após entrarmos no aplicativo, então iremos poder observar a tela principal do aplicativo, onde estão todas as músicas, artistas e álbuns que nosso programa possúi.
+Após entrarmos no aplicativo, então poderemos observar a tela principal, onde estão todas as músicas, artistas e álbuns que nosso programa possúi.
 
 <img src="images/app.jpg" alt="Tela principal do aplicativo.">
 
