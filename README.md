@@ -19,3 +19,26 @@ Ao iniciar o aplicativo, temos a tela inicial do aplicativo que nos dá a opçã
 Neste projeto, precisamos sempre cadastrar um usuário para poder ter acesso total ao aplicativo.
 
 <img src="images/inicio.jpg" alt="Tela inicial.">
+
+Então vamos para a página de cadastro. A página de login é exatamente igual.
+
+<img src="images/cadastro.jpg" alt="Tela de cadastro.">
+
+Após entrarmos no aplicativo, então iremos poder observar a tela principal do aplicativo, onde estão todas as músicas, artistas e álbuns que nosso programa possúi.
+
+<img src="images/app.jpg" alt="Tela principal do aplicativo.">
+
+Ao clicar em uma música, então iremos ser redirecionados para a tela da música, onde poderemos escolher qual opção queremos ouvir. Também temos a letra da música para poder estudar exatamente igual a música original.
+Acima da imagem da música, podemos observar um botão com o símbolo de uma setinha. Esse botão serve para podermos voltar a página inicial do programa.
+
+<img src="images/musica.jpg" alt="Tela de música.">
+
+Voltando para a página principal, podemos escolher outra música, artista ou álbum para acessar. Vamos agora acessar a página de artista.
+Nessa página, temos sua imagem e um texto informando sobre o artista.
+
+<img src="images/perfil.jpg" alt="Tela de artista.">
+
+Voltando novamente para a página principal, vamos acessar a página de álbum.
+Por conta de estar em fase de aprendizado e tempo, essa página contém apenas sua imagem, o nome do álbum e o nome do artista.
+
+<img src="images/album.jpg" alt="Tela de álbum.">
